@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.aufdemrand:denizen:0.9.7-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/aufdemrand/denizen/0.9.7-SNAPSHOT/denizen-0.9.7-20160225.225518-1610.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/aufdemrand/denizen/0.9.7-SNAPSHOT/denizen-0.9.7-20160225.225518-1610-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/aufdemrand/denizen/0.9.7-SNAPSHOT/denizen-0.9.7-20160225.225518-1610-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

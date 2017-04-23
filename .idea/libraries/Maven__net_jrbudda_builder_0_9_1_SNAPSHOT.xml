@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.jrbudda:builder:0.9.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/jrbudda/builder/0.9.1-SNAPSHOT/builder-0.9.1-20150703.003659-9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/jrbudda/builder/0.9.1-SNAPSHOT/builder-0.9.1-20150703.003659-9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/jrbudda/builder/0.9.1-SNAPSHOT/builder-0.9.1-20150703.003659-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
